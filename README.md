@@ -4,6 +4,10 @@
 
 ## Core 
 
+### Google open source
+
+[Google open source projects using firebase](https://opensource.google.com/projects/search?q=firebase)
+
 ### Help resources
 
 [Blog](https://firebase.googleblog.com/2017/05/whats-new-from-firebase-at-google-io.html)

@@ -21,3 +21,9 @@
 ### Additional
 
 [Firebase cloud (serverless) functions](https://firebase.googleblog.com/2017/03/introducing-cloud-functions-for-firebase.html)
+[Firebase cloud (serverless) functions examples](https://github.com/firebase/functions-samples/tree/master/fcm-notifications)
+
+
+### Other
+
+[Zapier integration(s)](https://zapier.com/zapbook/firebase/)
